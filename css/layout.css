@@ -30,7 +30,6 @@
 }
 
 .col-2 { /*1/3 of page width*/
-  display: inline-block;
-  width: 32.666%;
+  width: 31.666%;
 
 }
