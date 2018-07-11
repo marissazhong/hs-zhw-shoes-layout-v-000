@@ -40,5 +40,5 @@
 .col-3 { /*1/3 of page width right side*/
   float: left;
   width: 32.666%;
-  margin-left:1%;
+  /*margin-left:1%;*/
 }
