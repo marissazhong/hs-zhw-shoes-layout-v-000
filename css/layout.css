@@ -26,6 +26,7 @@
 
 .col-1 { /*2/3 of page width*/
   /*margin: 1%;*/
+  float: left;
   width: 65.333%;
 }
 
